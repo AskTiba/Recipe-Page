@@ -9,7 +9,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #f1f1f1;
+  background-color: hsl(30, 54%, 90%);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
